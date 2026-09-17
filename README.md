@@ -61,22 +61,22 @@ Room Manager is a Flutter app for managing hotel floors, rooms, and guests in a 
   -If prompted on your phone, allow USB debugging for your computer.  
   -Open the project in **Android Studio**.  
 
-  # 2. Check Flutter installation
+  ### 2. Check Flutter installation
   Open the terminal in Android Studio and run:  
   flutter doctor  
   Make sure Flutter and the Android toolchain are configured correctly.  
   
-  # 3. Check connected devices
+  ### 3. Check connected devices
   Run:  
   flutter devices  
   Your connected Android phone should appear in the list.  
   
-  # 4. Get project dependencies
+  ### 4. Get project dependencies
   Run:  
   flutter pub get  
   This downloads the dependencies required by the project.  
   
-  # 5. Run the application
+  ### 5. Run the application
   Run:  
   flutter run  
   Flutter will build and install the app on the connected device.  
