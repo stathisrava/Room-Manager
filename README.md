@@ -45,21 +45,21 @@ Room Manager is a Flutter app for managing hotel floors, rooms, and guests in a 
 
 
 ## Technologies
-Flutter  
-Dart  
-Shared Preferences —> local data storage  
-Excel —> spreadsheet export  
-Share Plus —> sharing exported files  
-Path Provider —> temporary file storage  
+-Flutter  
+-Dart  
+-Shared Preferences —> local data storage  
+-Excel —> spreadsheet export  
+-Share Plus —> sharing exported files  
+-Path Provider —> temporary file storage  
 
 
 ## Installation
   # 1. Connect an Android phone
-  -Connect your Android phone to your computer using a USB cable.
-  -On your phone, enable **Developer Options**.
-  -Enable **USB debugging**.
-  -If prompted on your phone, allow USB debugging for your computer.
-  -Open the project in **Android Studio**.
+  -Connect your Android phone to your computer using a USB cable.  
+  -On your phone, enable **Developer Options**.  
+  -Enable **USB debugging**.  
+  -If prompted on your phone, allow USB debugging for your computer.  
+  -Open the project in **Android Studio**.  
 
   # 2. Check Flutter installation
   Open the terminal in Android Studio and run:  
