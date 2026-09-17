@@ -33,8 +33,8 @@ Room Manager is a Flutter app for managing hotel floors, rooms, and guests in a 
 💾 Automatically save data locally  
 
 ## Screenshots
-<img width="350" height="450" alt="Screenshot_2026-09-17-03-06-05-58_b783bf344239542886fee7b48fa4b892" src="https://github.com/user-attachments/assets/e9babc68-79ff-4240-9d92-7f8485d83190" />
-<img width="350" height="450" alt="Screenshot_2026-09-17-03-04-20-34_822461a6166c58bd5f2d81d751d6ec7b" src="https://github.com/user-attachments/assets/989fcceb-67ee-428c-9af5-c01ae733161f" />
+<img width="250" height="450" alt="Screenshot_2026-09-17-03-06-05-58_b783bf344239542886fee7b48fa4b892" src="https://github.com/user-attachments/assets/e9babc68-79ff-4240-9d92-7f8485d83190" />
+<img width="200" height="450" alt="Screenshot_2026-09-17-03-04-20-34_822461a6166c58bd5f2d81d751d6ec7b" src="https://github.com/user-attachments/assets/989fcceb-67ee-428c-9af5-c01ae733161f" />
 <img width="350" height="450" alt="Screenshot_2026-09-17-03-00-24-09_822461a6166c58bd5f2d81d751d6ec7b" src="https://github.com/user-attachments/assets/d1a467fa-a4db-47c4-9abe-3f2bf1bd4c8c" />
 <img width="350" height="450" alt="Screenshot_2026-09-17-03-05-09-72_822461a6166c58bd5f2d81d751d6ec7b" src="https://github.com/user-attachments/assets/76999bf2-199c-4d4c-b44b-31cde411ea8d" />
 <img width="350" height="450" alt="Screenshot_2026-09-17-03-00-37-20_822461a6166c58bd5f2d81d751d6ec7b" src="https://github.com/user-attachments/assets/05153ada-1c1d-4107-8c95-b01ce801c8e8" />
