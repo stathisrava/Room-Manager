@@ -20,17 +20,17 @@ samples, guidance on mobile development, and a full API reference.
 Room Manager is a Flutter app for managing hotel floors, rooms, and guests in a simple visual layout.
 
 ## Features
-🏢 Create and manage multiple floors
-🛏️ Add and organize rooms on a customizable grid
-👤 Store guest names and information
-📅 Track check-in and check-out dates
-🟢 Track room availability
-🔴 Mark rooms as occupied
-🟠 Mark rooms as damaged
-🔵 Add extra rooms for storage or utilities
-↔️ Move rooms around the grid with drag & drop
-📊 Export floor room data to Excel
-💾 Automatically save data locally
+🏢 Create and manage multiple floors  
+🛏️ Add and organize rooms on a customizable grid  
+👤 Store guest names and information  
+📅 Track check-in and check-out dates  
+🟢 Track room availability  
+🔴 Mark rooms as occupied  
+🟠 Mark rooms as damaged  
+🔵 Add extra rooms for storage or utilities  
+↔️ Move rooms around the grid with drag & drop  
+📊 Export floor room data to Excel  
+💾 Automatically save data locally  
 
 ## Screenshots
 <img width="350" height="450" alt="Screenshot_2026-09-17-03-06-05-58_b783bf344239542886fee7b48fa4b892" src="https://github.com/user-attachments/assets/e9babc68-79ff-4240-9d92-7f8485d83190" />
@@ -41,26 +41,16 @@ Room Manager is a Flutter app for managing hotel floors, rooms, and guests in a 
 <img width="350" height="450" alt="Screenshot_2026-09-17-03-01-29-70_822461a6166c58bd5f2d81d751d6ec7b" src="https://github.com/user-attachments/assets/59eb9590-3122-4001-8e78-979f399475f3" />
 <img width="350" height="450" alt="Screenshot_2026-09-17-03-01-36-12_822461a6166c58bd5f2d81d751d6ec7b" src="https://github.com/user-attachments/assets/de2e6f22-4b06-4719-a63d-95ba7eadc196" />
 <img width="350" height="450" alt="Screenshot_2026-09-17-03-01-46-90_822461a6166c58bd5f2d81d751d6ec7b" src="https://github.com/user-attachments/assets/9979edae-7677-4fe0-84fa-198de846a67d" />
-<img width="250" height="450" alt="Screenshot_2026-09-17-03-03-38-88_c37d74246d9c81aa0bb824b57eaf7062" src="https://github.com/user-attachments/assets/feae6ba0-c0d3-48df-9204-551059cc973e" />
-
-
-
-
-
-
-
-
-
-
+<img width="350" height="450" alt="Screenshot_2026-09-17-03-03-38-88_c37d74246d9c81aa0bb824b57eaf7062" src="https://github.com/user-attachments/assets/feae6ba0-c0d3-48df-9204-551059cc973e" />
 
 
 ## Technologies
-Flutter
-Dart
-Shared Preferences —> local data storage
-Excel —> spreadsheet export
-Share Plus —> sharing exported files
-Path Provider —> temporary file storage
+Flutter  
+Dart  
+Shared Preferences —> local data storage  
+Excel —> spreadsheet export  
+Share Plus —> sharing exported files  
+Path Provider —> temporary file storage  
 
 
 ## Installation
