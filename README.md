@@ -55,31 +55,31 @@ Path Provider —> temporary file storage
 
 ## Installation
   # 1. Connect an Android phone
-  1. Connect your Android phone to your computer using a USB cable.
-  2. On your phone, enable **Developer Options**.
-  3. Enable **USB debugging**.
-  4. If prompted on your phone, allow USB debugging for your computer.
-  5. Open the project in **Android Studio**.
+  -Connect your Android phone to your computer using a USB cable.
+  -On your phone, enable **Developer Options**.
+  -Enable **USB debugging**.
+  -If prompted on your phone, allow USB debugging for your computer.
+  -Open the project in **Android Studio**.
 
   # 2. Check Flutter installation
-  Open the terminal in Android Studio and run: 
-  flutter doctor
-  Make sure Flutter and the Android toolchain are configured correctly.
+  Open the terminal in Android Studio and run:  
+  flutter doctor  
+  Make sure Flutter and the Android toolchain are configured correctly.  
   
   # 3. Check connected devices
-  Run: 
-  flutter devices
-  Your connected Android phone should appear in the list.
+  Run:  
+  flutter devices  
+  Your connected Android phone should appear in the list.  
   
   # 4. Get project dependencies
-  Run:
-  flutter pub get
-  This downloads the dependencies required by the project.
+  Run:  
+  flutter pub get  
+  This downloads the dependencies required by the project.  
   
   # 5. Run the application
-  Run:
-  flutter run
-  Flutter will build and install the app on the connected device.
+  Run:  
+  flutter run  
+  Flutter will build and install the app on the connected device.  
   
   You can also select the connected phone as the target device in Android Studio and press **Run ▶**.
   
