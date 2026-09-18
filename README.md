@@ -81,7 +81,7 @@ Room Manager is a Flutter app for managing hotel floors, rooms, and guests in a 
   flutter run  
   Flutter will build and install the app on the connected device.  
   
-  You can also select the connected phone as the target device in Android Studio and press **Run ▶**.
+  You can also select the connected phone as the target device in Android Studio and press Run.
   
 
 
